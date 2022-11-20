@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunonavarrooficial&label=Profile%20views&color=0e75b6&style=flat" alt="brunonavarrooficial" /> </p>
 <div align="center">
   <a href="https://github.com/Brunonavarrooficial">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brunonavarrooficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
