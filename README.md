@@ -1,12 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunonavarrooficial&label=Profile%20views&color=0e75b6&style=flat" alt="brunonavarrooficial" /> </p>
-<div align="center">
+<div>
   <a href="https://github.com/Brunonavarrooficial">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brunonavarrooficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunonavarrooficial&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/java/java.png">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/java/java.png">  
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
