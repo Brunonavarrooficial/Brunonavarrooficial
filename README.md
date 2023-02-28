@@ -77,7 +77,7 @@
 </div>
 
 <hr>
-<h1 align="center">Projects</h1>
+<h1 align="center">📐Projects🛠️</h1>
 <table>
   
   <tr>
@@ -127,7 +127,7 @@
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>
+        <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>
       </p>
       </div>
       <p align="left">
@@ -149,30 +149,33 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">My Site</h3>
+      <h3 align="center">TMDB Filmes React 📽️</h3>
       <br />
-        <a target="_blank" href="https://mysiteapp.netlify.app">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" width="100%" alt="My Site"/>
+        <a target="_blank" href="https://brunobonfimimdbfilmes.vercel.app/">
+          <img src="https://github.com/Brunonavarrooficial/API-IMDBFilmes-ReactJs/raw/main/public/movieslib.gif" width="100%" alt="My Site"/>
         </a>
-      <br />
-        <p><strong>This is my website, with a brief introduction.</strong> </p>
-      <p align="left">
-        <strong> Technologies used </strong>
+      <br />        
+      <div align="center">
+      <p><strong>Consuming a TMDB movie site API</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>
+        <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="32"/> </a>
+      </p>
+      </div>
+      <p align="left">
+        <strong>IDE used💻👩🏽‍💻👨🏽‍💻</strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="left">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-      </p>
-      <p align="center">
-  <a href="https://github.com/ValentineFernandes/My-Site" target="_blank">
+  <a href="https://github.com/Brunonavarrooficial/API-IMDBFilmes-ReactJs" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://mysiteapp.netlify.app" target="_blank">
+  <a href="https://brunobonfimimdbfilmes.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
