@@ -89,7 +89,7 @@
         </a>
         <br />
         <div align="center">
-        <p><strong>This is a website to buy clock online.</strong></p>
+        <p><strong>This is a website to buy clock online</strong></p>
       <p>
         <strong>👇🏼⚙️Technologies Used⚙️👇🏼 </strong>
         <br/>
@@ -99,7 +99,7 @@
       </p>
       </div>
       <p align="left">
-        <strong> IDE used </strong>
+        <strong>IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
@@ -114,31 +114,33 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">eFresh Groceries Website</h3>
+      <h3 align="center">Clima Tempo OpenWeather API 🌡️</h3>
         <br />
-      <a target="_blank" href="https://efreshgroceries.netlify.app">
-            <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" width="100%"  alt="eFresh Groceries Website"/>
+      <a target="_blank" href="https://climatempo-bn.netlify.app/">
+            <img src="https://raw.githubusercontent.com/Brunonavarrooficial/ClimaTempo-API-Js-/main/assets/image/climatempo.gif" width="100%"  alt="eFresh Groceries Website"/>
         </a>
         <br />
-        <p><strong>This is a website to buy groceries. </strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
+      <div align="center">
+      <p><strong>Check the weather of any city of world</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼 </strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>
       </p>
+      </div>
       <p align="left">
-        <strong> IDE used </strong>
+        <strong>IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
-        <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
           
-  <a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website" target="_blank">
+  <a href="https://github.com/Brunonavarrooficial/ClimaTempo-API-Js-" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://efreshgroceries.netlify.app" target="_blank">
+  <a href="https://climatempo-bn.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
