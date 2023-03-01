@@ -98,19 +98,18 @@
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="32"/> </a>
       </p>
       </div>
-      <p align="left">
+      <p align="center">
         <strong>IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
-      <p align="center">
-          
-  <a href="https://github.com/Brunonavarrooficial/ExactTime-Bootstrap" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://exact-time-bn.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <p align="center">
+        <a href="https://github.com/Brunonavarrooficial/ExactTime-Bootstrap" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://exact-time-bn.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -130,19 +129,18 @@
         <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>
       </p>
       </div>
-      <p align="left">
+      <p align="center">
         <strong>IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-          
-  <a href="https://github.com/Brunonavarrooficial/ClimaTempo-API-Js-" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://climatempo-bn.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/Brunonavarrooficial/ClimaTempo-API-Js-" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://climatempo-bn.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -166,142 +164,148 @@
         <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="32"/> </a>
       </p>
       </div>
-      <p align="left">
+      <p align="center">
         <strong>IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
-      <p align="left">
-  <a href="https://github.com/Brunonavarrooficial/API-IMDBFilmes-ReactJs" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://brunobonfimimdbfilmes.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+      <p align="center">
+        <a href="https://github.com/Brunonavarrooficial/API-IMDBFilmes-ReactJs" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://brunobonfimimdbfilmes.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Calculator</h3>
+      <h3 align="center">Electrum - Loja Virtual 🛍️</h3>
         <br />
-        <a target="_blank" href="https://calculatorapplsite.netlify.app">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" width="100%" alt="Calculator"/>
+        <a target="_blank" href="https://e-commerce-electrum-bn.netlify.app/">
+          <img src="https://github.com/Brunonavarrooficial/Electrum-Sass/raw/main/assets/image/electrum.gif" width="100%" alt="Calculator"/>
         </a>
         <br />
-        <p><strong>This is a calculator website to perform calculations.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
+        <div align="center">
+      <p><strong>E-commerce online store</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
         <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="40"/> </a>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40"/></a>
       </p>
-      <p align="left">
-        <strong> IDE used </strong>
+      </div>
+      <p align="center">
+        <strong> IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-          
-  <a href="https://github.com/ValentineFernandes/Calculator" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://calculatorapplsite.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/Brunonavarrooficial/Electrum-Sass" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://e-commerce-electrum-bn.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Quiz <br/> Application</h3>
+      <h3 align="center">Poke<span style="color:red">Next.js</span> <img width='28px' align='center' src='https://github.com/Brunonavarrooficial/PokeNextJs/raw/main/public/images/pokeball.png' /></h3>
       <br />
-        <a target="_blank" href="https://quizapplsite.netlify.app">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" width="100%" alt="Quiz Application"/>
+        <a target="_blank" href="https://pokenext-js-eight.vercel.app/">
+          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" width="100%" alt="Quiz Application"/>
         </a>
       <br />
-        <p><strong>This is a website where users can give quiz.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
+        <div align="center">
+      <p><strong>Consuming an API and rendering in Pokemon Cards</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40"/></a>
+        <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>
       </p>
-      <p align="left">
-        <strong> IDE used </strong>
+      </div>
+      <p align="center">
+        <strong> IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-  <a href="https://github.com/ValentineFernandes/Quiz-Application" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://quizapplsite.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/Brunonavarrooficial/PokeNextJs" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://pokenext-js-eight.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Calculator <br/> Light/Dark</h3>
+      <h3 align="center">Agencia Fake <img style="margin-bottom:-5px" width="30px" src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/marketing.png" /></h3>
         <br />
-        <a target="_blank" href="https://calculatorlightdarkmode.netlify.app">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://agenciafake-bn.netlify.app/">
+          <img src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/agenciafake.gif" width="100%" alt="Agency Fake"/>
         </a>
         <br />
-        <p><strong>This is a calculator with a light/dark mode.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
+         <div align="center">
+      <p><strong>Specific landing page for digital services agency</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>        
       </p>
-      <p align="left">
-        <strong> IDE used </strong>
+      </div>
+      <p align="center">
+        <strong> IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
-        <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-          
-  <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://calculatorlightdarkmode.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://agenciafake-bn.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+      <h3 align="center">My Portfolio 📌</h3>
       <br />
-        <a target="_blank" href="https://portfolioappweb.netlify.app/">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img7.jpg" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://portifolio-bruno-bn.netlify.app/">
+          <img src="https://github.com/Brunonavarrooficial/portifolio_react_sass/raw/main/react_sass_portifolio/src/assets/image/projects/portifoliodonnavarro.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
-        <p><strong>This is my portfolio with my short intro.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
+        <div align="center">
+      <p><strong>This is my portfolio with my short intro</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40"/></a>
+        <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>
+        <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="32"/> </a>
       </p>
-      <p align="left">
-        <strong> IDE used </strong>
+      </div>
+      <p align="center">
+        <strong> IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
-        <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-  <a href="https://github.com/ValentineFernandes/Portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://portfolioappweb.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/Brunonavarrooficial/Electrum-Sass" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://e-commerce-electrum-bn.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
