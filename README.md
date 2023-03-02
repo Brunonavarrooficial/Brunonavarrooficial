@@ -300,112 +300,109 @@
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-        <a href="https://github.com/Brunonavarrooficial/Electrum-Sass" target="_blank">
+        <a href="https://github.com/Brunonavarrooficial/portifolio_react_sass" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
         </a>
-        <a href="https://e-commerce-electrum-bn.netlify.app/" target="_blank">
+        <a href="https://portifolio-bruno-bn.netlify.app/" target="_blank">
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">eShop Website</h3>
-        <br />
-        <a target="_blank" href="http://localhost:8080/shopping-cart/index.jsp">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg" width="100%" alt="eShop Website"/>
+      <h3 align="center">Gerador Box Shadow 🎨</h3>
+      <br />
+        <a target="_blank" href="https://boxshadowgenerator-bn.netlify.app/">
+          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" width="100%" height="260px" alt="Box Shadow generator"/>
         </a>
-        <br />
-        <p><strong>This is a website to buy clothes online.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
+      <br />
+        <div align="center">
+      <p><strong>Generator of various types of shadows
+</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-        <a href="https://www.jquery.com" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> 
-        <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>        
+        <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>        
       </p>
-      <p align="left">
-        <strong> IDE used </strong>
+      </div>
+      <p align="center">
+        <strong> IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-          
-  <a href="https://github.com/ValentineFernandes/eShop-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://localhost:8080/shopping-cart/index.jsp" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/Brunonavarrooficial/boxShadowGenerator" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://boxshadowgenerator-bn.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Food Website</h3>
-      <br />
-        <a target="_blank" href="https://valentinefernandes.github.io/Food-Website/">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img8.jpg" width="100%" alt="Food Website"/>
+      <h3 align="center">Pearson Specter Litt 👩‍⚖️👨‍⚖️</h3>
+        <br />
+        <a target="_blank" href="https://agenciafake-bn.netlify.app/">
+          <img src="https://github.com/Brunonavarrooficial/PearsonSpecterLitt-Js/raw/main/img/personspecterlitt.gif" width="100%" alt="pearson specter litt"/>
         </a>
-      <br />
-        <p><strong>This is a website to buy food online.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
+        <br />
+         <div align="center">
+      <p><strong>Homage to the Suits Series</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       </p>
-      <p align="left">
-        <strong> IDE used </strong>
+      </div>
+      <p align="center">
+        <strong> IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-  <a href="https://github.com/ValentineFernandes/Food-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://valentinefernandes.github.io/Food-Website/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/Brunonavarrooficial/PearsonSpecterLitt-Js" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://pearson-specter-litt-js.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Dental Website</h3>
-        <br />
-        <a target="_blank" href="https://valentinefernandes.github.io/DentalClinic-Website/">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img9.jpg" width="100%" alt="Dental Website"/>
+      <h3 align="center">DevLink Page 🔗</h3>
+      <br />
+        <a target="_blank" href="https://devlinks-bn.netlify.app/">
+          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="306" width="100%" alt="Portfolio"/>
         </a>
-        <br />
-        <p><strong>This is a dental clinic website.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
+      <br />
+        <div align="center">
+      <p><strong>Custom links page for social networks</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-        <img alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40"/></a>
+        <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>
+        <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="32"/> </a>
       </p>
-      <p align="left">
-        <strong> IDE used </strong>
+      </div>
+      <p align="center">
+        <strong> IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-          
-  <a href="https://github.com/ValentineFernandes/DentalClinic-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://valentinefernandes.github.io/DentalClinic-Website/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/Brunonavarrooficial/DevLink-ReactJs" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://devlinks-bn.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
   </tr>
