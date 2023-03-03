@@ -1,11 +1,17 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunonavarrooficial&label=Profile%20views&color=0e75b6&style=flat" alt="brunonavarrooficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunonavarrooficial&label=Profile%20views&color=0e75b6&style=flat" alt="brunonavarrooficial views profile" /></p>
+<h3> Hello, I'm Bruno! 🖖🏼 Welcome to my GitHub profile! 👋🏻</h3>
+<p>I'm a <span style="color:blue">software developer</span>. I'm always learning 📚 and turning <span style="color:brown">coffee</span> into code 👨🏽‍💻☕. Passionate about creating solutions to real world problems.</p>
+<h6> 💫 #desenvolvimentoweb, #computação, #software, #fullstack, #development, #mobile and #tecnologia</h6>
+
+##
+
 <div>
   <a href="https://github.com/Brunonavarrooficial">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brunonavarrooficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunonavarrooficial&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ## Languages and Tools:
+  ### 🧰Languages and Tools:
   #### 💻 Tech Stack: Front-End:
 <div style="display: inline_block">  
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -61,12 +67,12 @@
   ---
   
   
-  ## Connect with me: 
+  #### 🌐 Social Media: 
 <div>
   <a href="https://www.linkedin.com/in/brunobonfimdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bnacessoria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bruno_bomfim_72@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.udemy.com/user/bruno-bonfim-8" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a> 
-  <a href="https://www.youtube.com/c/BrunoNavarroSinaloense" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@BrunoNavarroOficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/brunonavarrooficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://open.spotify.com/artist/3i65SPF4EPg17c6dnwVYxC" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   
@@ -215,7 +221,7 @@
       <h3 align="center">Poke<span style="color:red">Next.js</span> <img width='28px' align='center' src='https://github.com/Brunonavarrooficial/PokeNextJs/raw/main/public/images/pokeball.png' /></h3>
       <br />
         <a target="_blank" href="https://pokenext-js-eight.vercel.app/">
-          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" width="100%" alt="Quiz Application"/>
+          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" height="221" width="100%" alt="Quiz Application"/>
         </a>
       <br />
         <div align="center">
@@ -312,7 +318,7 @@
       <h3 align="center">Gerador Box Shadow 🎨</h3>
       <br />
         <a target="_blank" href="https://boxshadowgenerator-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" width="100%" height="260px" alt="Box Shadow generator"/>
+          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" width="100%" height="220px" alt="Box Shadow generator"/>
         </a>
       <br />
         <div align="center">
@@ -345,7 +351,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Pearson Specter Litt 👩‍⚖️👨‍⚖️</h3>
         <br />
-        <a target="_blank" href="https://agenciafake-bn.netlify.app/">
+        <a target="_blank" href="https://pearson-specter-litt-js.vercel.app/">
           <img src="https://github.com/Brunonavarrooficial/PearsonSpecterLitt-Js/raw/main/img/personspecterlitt.gif" width="100%" alt="pearson specter litt"/>
         </a>
         <br />
@@ -376,7 +382,7 @@
       <h3 align="center">DevLink Page 🔗</h3>
       <br />
         <a target="_blank" href="https://devlinks-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="306" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="255px" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <div align="center">
@@ -408,66 +414,70 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Interior Website</h3>
+      <h3 align="center">Agency - Enterprise 🏢👩🏽‍💼👨🏽‍💼</h3>
       <br />
-        <a target="_blank" href="https://valentinefernandes.github.io/Interior-Design-Website/">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/interior.jpg" width="100%" alt="Interior Design Website"/>
+        <a target="_blank" href="https://agency-empresa-bn.netlify.app/">
+          <img src="https://github.com/Brunonavarrooficial/Agency-Sass/raw/main/assets/image/agency.gif" height="275" width="100%" alt="Portfolio"/>
         </a>
       <br />
-        <p><strong>This is an interior design website.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
+        <div align="center">
+      <p><strong>Business Landing Page</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
         <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40"/></a>
       </p>
-      <p align="left">
-        <strong> IDE used </strong>
-        <br/>
-        <img src="https://img.shields.io/badge/Atom-00E68A?style=for-the-badge&logo=Atom&logoColor=white">
-      </p>
+      </div>
       <p align="center">
-  <a href="https://github.com/ValentineFernandes/Interior-Design-Website" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://valentinefernandes.github.io/Interior-Design-Website/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">UI Assignment</h3>
-        <br />
-        <a target="_blank" href="https://valentinefernandes.github.io/UI-Assignment/">
-          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/ui.jpg" width="100%" alt="UI Assignment"/>
-        </a>
-        <br />
-        <p><strong>This is a UI Assignment.</strong></p>
-      <p align="left">
-        <strong> Technologies used </strong>
-        <br/>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      </p>
-      <p align="left">
-        <strong> IDE used </strong>
+        <strong> IDE used💻👩🏽‍💻👨🏽‍💻</strong>
         <br/>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       </p>
       <p align="center">
-          
-  <a href="https://github.com/ValentineFernandes/UI-Assignment" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://valentinefernandes.github.io/UI-Assignment/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
-  </a>
+        <a href="https://github.com/Brunonavarrooficial/Agency-Sass" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://agency-empresa-bn.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">iPhone Pro 13 Sales Page 📱</h3>
+        <br />
+        <a target="_blank" href="https://brunonavarrooficial.github.io/iPhonePro13-Page/">
+          <img src="https://github.com/Brunonavarrooficial/iPhonePro13-Page/raw/main/img/iphonepage.gif" width="100%" alt="UI Assignment"/>
+        </a>
+        <br />
+        <div align="center">
+      <p><strong>Apple products page 🍎</strong></p>
+      <p>
+        <strong>👇🏼⚙️Technologies Used⚙️👇🏼</strong>
+        <br/>
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+        <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> </a>        
+      </p>
+      </div>
+      <p align="center">
+        <strong>IDE used💻👩🏽‍💻👨🏽‍💻</strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      </p>
+      <p align="center">
+        <a href="https://github.com/Brunonavarrooficial/iPhonePro13-Page" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
+        </a>
+        <a href="https://brunonavarrooficial.github.io/iPhonePro13-Page/" target="_blank">
+        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
+        </a>
       </p>
     </td>
   </tr>
 </table>
+
+<div align="center">
+<h5>©️ 2023 <span style="color:pink">@brunonavarrooficial</span> - Todos os direitos reservados.</h5>
+</div>
