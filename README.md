@@ -90,9 +90,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Exact Time Watchmaking ⌚</h3>
         <br />
+      <div align="center">
         <a target="_blank" href="https://exact-time-bn.netlify.app/">
-            <img src="https://github.com/Brunonavarrooficial/ExactTime-Bootstrap/raw/main/assets/images/exacttime.gif" height="384.05px" width="563.5px" alt="Exact Time Complete Website"/>
+            <img src="https://github.com/Brunonavarrooficial/ExactTime-Bootstrap/raw/main/assets/images/exacttime.gif" height="250px" width="250px" alt="Exact Time Complete Website"/>
         </a>
+        </div>
         <br />
         <div align="center">
         <p><strong>This is a website to buy clock online</strong></p>
@@ -121,9 +123,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Clima Tempo OpenWeather API 🌡️</h3>
         <br />
+      <div align="center">
       <a target="_blank" href="https://climatempo-bn.netlify.app/">
-            <img src="https://raw.githubusercontent.com/Brunonavarrooficial/ClimaTempo-API-Js-/main/assets/image/climatempo.gif" height="384.05px" width="563.5px" alt="Clima tempo api"/>
+            <img src="https://raw.githubusercontent.com/Brunonavarrooficial/ClimaTempo-API-Js-/main/assets/image/climatempo.gif" height="250px" width="250px" alt="Clima tempo api"/>
         </a>
+        </div>
         <br />
       <div align="center">
       <p><strong>Check the weather of any city of world</strong></p>
@@ -155,9 +159,11 @@
     <td width="50%" valign="top">
       <h3 align="center">TMDB Filmes React 📽️</h3>
       <br />
+      <div align="center">
         <a target="_blank" href="https://brunobonfimimdbfilmes.vercel.app/">
-          <img src="https://github.com/Brunonavarrooficial/API-IMDBFilmes-ReactJs/raw/main/public/movieslib.gif" height="384.05px" width="563.5px" alt="tmdb site filmes"/>
+          <img src="https://github.com/Brunonavarrooficial/API-IMDBFilmes-ReactJs/raw/main/public/movieslib.gif" height="250px" width="250px" alt="tmdb site filmes"/>
         </a>
+        </div>
       <br />        
       <div align="center">
       <p><strong>Consuming a TMDB movie site API</strong></p>
@@ -187,9 +193,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Electrum - Loja Virtual 🛍️</h3>
         <br />
+      <div align="center">
         <a target="_blank" href="https://e-commerce-electrum-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/Electrum-Sass/raw/main/assets/image/electrum.gif" height="384.05px" width="563.5px" alt="Electrum shop"/>
+          <img src="https://github.com/Brunonavarrooficial/Electrum-Sass/raw/main/assets/image/electrum.gif" height="250px" width="250px" alt="Electrum shop"/>
         </a>
+        </div>
         <br />
         <div align="center">
       <p><strong>E-commerce online store</strong></p>
@@ -220,9 +228,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Poke<span style="color:red">Next.js</span> <img width='28px' align='center' src='https://github.com/Brunonavarrooficial/PokeNextJs/raw/main/public/images/pokeball.png' /></h3>
       <br />
+      <div align="center">
         <a target="_blank" href="https://pokenext-js-eight.vercel.app/">
-          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" height="384.05px" width="563.5px" alt="PokeNext Cards"/>
+          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" height="250px" width="250px" alt="PokeNext Cards"/>
         </a>
+        </div>
       <br />
         <div align="center">
       <p><strong>Consuming an API and rendering in Pokemon Cards</strong></p>
@@ -252,9 +262,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Agencia Fake <img style="margin-bottom:-5px" width="30px" src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/marketing.png" /></h3>
         <br />
+      <div align="center">
         <a target="_blank" href="https://agenciafake-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/agenciafake.gif" height="384.05px" width="563.5px" alt="Agency Fake"/>
+          <img src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/agenciafake.gif" height="250px" width="250px" alt="Agency Fake"/>
         </a>
+      </div>
         <br />
          <div align="center">
       <p><strong>Specific landing page for digital services agency</strong></p>
@@ -284,9 +296,11 @@
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio 📌</h3>
       <br />
+      <div align="center">
         <a target="_blank" href="https://portifolio-bruno-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/portifolio_react_sass/raw/main/react_sass_portifolio/src/assets/image/projects/portifoliodonnavarro.gif" height="384.05px" width="563.5px" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/portifolio_react_sass/raw/main/react_sass_portifolio/src/assets/image/projects/portifoliodonnavarro.gif" height="250px" width="250px" alt="Portfolio"/>
         </a>
+      </div>
       <br />
         <div align="center">
       <p><strong>This is my portfolio with my short intro</strong></p>
@@ -317,9 +331,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Gerador Box Shadow 🎨</h3>
       <br />
+      <div align="center">
         <a target="_blank" href="https://boxshadowgenerator-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" height="384.05px" width="563.5px" alt="Box Shadow generator"/>
+          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" height="250px" width="250px" alt="Box Shadow generator"/>
         </a>
+      </div>
       <br />
         <div align="center">
       <p><strong>Generator of various types of shadows
@@ -351,9 +367,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Pearson Specter Litt 👩‍⚖️👨‍⚖️</h3>
         <br />
+      <div align="center">
         <a target="_blank" href="https://pearson-specter-litt-js.vercel.app/">
-          <img src="https://github.com/Brunonavarrooficial/PearsonSpecterLitt-Js/raw/main/img/personspecterlitt.gif" height="384.05px" width="563.5px" alt="pearson specter litt"/>
+          <img src="https://github.com/Brunonavarrooficial/PearsonSpecterLitt-Js/raw/main/img/personspecterlitt.gif" height="250px" width="250px" alt="pearson specter litt"/>
         </a>
+      </div>
         <br />
          <div align="center">
       <p><strong>Homage to the Suits Series</strong></p>
@@ -381,9 +399,11 @@
     <td width="50%" valign="top">
       <h3 align="center">DevLink Page 🔗</h3>
       <br />
+      <div align="center">
         <a target="_blank" href="https://devlinks-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="384.05px" width="563.5px" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="250px" width="250px" alt="Portfolio"/>
         </a>
+      </div>
       <br />
         <div align="center">
       <p><strong>Custom links page for social networks</strong></p>
@@ -416,9 +436,11 @@
     <td width="50%" valign="top">
       <h3 align="center">Agency - Enterprise 🏢👩🏽‍💼👨🏽‍💼</h3>
       <br />
+      <div align="center">
         <a target="_blank" href="https://agency-empresa-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/Agency-Sass/raw/main/assets/image/agency.gif" height="384.05px" width="563.5px" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/Agency-Sass/raw/main/assets/image/agency.gif" height="250px" width="250px" alt="Portfolio"/>
         </a>
+      </div>
       <br />
         <div align="center">
       <p><strong>Business Landing Page</strong></p>
@@ -447,9 +469,11 @@
     <td width="50%" valign="top">
       <h3 align="center">iPhone Pro 13 Sales Page 📱</h3>
         <br />
+      <div align="center">
         <a target="_blank" href="https://brunonavarrooficial.github.io/iPhonePro13-Page/">
-          <img src="https://github.com/Brunonavarrooficial/iPhonePro13-Page/raw/main/img/iphonepage.gif" height="384.05px" width="563.5px" alt="UI Assignment"/>
+          <img src="https://github.com/Brunonavarrooficial/iPhonePro13-Page/raw/main/img/iphonepage.gif" height="250px" width="250px" alt="UI Assignment"/>
         </a>
+        </div>
         <br />
         <div align="center">
       <p><strong>Apple products page 🍎</strong></p>
