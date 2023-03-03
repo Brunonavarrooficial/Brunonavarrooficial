@@ -83,16 +83,15 @@
 </div>
 
 <hr>
-<h1 align="center">📐Projects🛠️</h1>
-<table>
-  
-  <tr>
+  <h1 align="center">📐Projects🛠️</h1>
+<table>     
+  <tr>    
     <td width="50%" valign="top">
       <h3 align="center">Exact Time Watchmaking ⌚</h3>
         <br />
       <div align="center">
         <a target="_blank" href="https://exact-time-bn.netlify.app/">
-            <img src="https://github.com/Brunonavarrooficial/ExactTime-Bootstrap/raw/main/assets/images/exacttime.gif" height="250px" width="250px" alt="Exact Time Complete Website"/>
+            <img src="https://github.com/Brunonavarrooficial/ExactTime-Bootstrap/raw/main/assets/images/exacttime.gif" height="280px" width="340px" alt="Exact Time Complete Website"/>
         </a>
         </div>
         <br />
@@ -125,7 +124,7 @@
         <br />
       <div align="center">
       <a target="_blank" href="https://climatempo-bn.netlify.app/">
-            <img src="https://raw.githubusercontent.com/Brunonavarrooficial/ClimaTempo-API-Js-/main/assets/image/climatempo.gif" height="250px" width="250px" alt="Clima tempo api"/>
+            <img src="https://raw.githubusercontent.com/Brunonavarrooficial/ClimaTempo-API-Js-/main/assets/image/climatempo.gif" height="280px" width="340px" alt="Clima tempo api"/>
         </a>
         </div>
         <br />
@@ -161,7 +160,7 @@
       <br />
       <div align="center">
         <a target="_blank" href="https://brunobonfimimdbfilmes.vercel.app/">
-          <img src="https://github.com/Brunonavarrooficial/API-IMDBFilmes-ReactJs/raw/main/public/movieslib.gif" height="250px" width="250px" alt="tmdb site filmes"/>
+          <img src="https://github.com/Brunonavarrooficial/API-IMDBFilmes-ReactJs/raw/main/public/movieslib.gif" height="280px" width="340px" alt="tmdb site filmes"/>
         </a>
         </div>
       <br />        
@@ -195,7 +194,7 @@
         <br />
       <div align="center">
         <a target="_blank" href="https://e-commerce-electrum-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/Electrum-Sass/raw/main/assets/image/electrum.gif" height="250px" width="250px" alt="Electrum shop"/>
+          <img src="https://github.com/Brunonavarrooficial/Electrum-Sass/raw/main/assets/image/electrum.gif" height="280px" width="340px" alt="Electrum shop"/>
         </a>
         </div>
         <br />
@@ -230,7 +229,7 @@
       <br />
       <div align="center">
         <a target="_blank" href="https://pokenext-js-eight.vercel.app/">
-          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" height="250px" width="250px" alt="PokeNext Cards"/>
+          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" height="280px" width="340px" alt="PokeNext Cards"/>
         </a>
         </div>
       <br />
@@ -264,7 +263,7 @@
         <br />
       <div align="center">
         <a target="_blank" href="https://agenciafake-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/agenciafake.gif" height="250px" width="250px" alt="Agency Fake"/>
+          <img src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/agenciafake.gif" height="280px" width="340px" alt="Agency Fake"/>
         </a>
       </div>
         <br />
@@ -298,7 +297,7 @@
       <br />
       <div align="center">
         <a target="_blank" href="https://portifolio-bruno-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/portifolio_react_sass/raw/main/react_sass_portifolio/src/assets/image/projects/portifoliodonnavarro.gif" height="250px" width="250px" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/portifolio_react_sass/raw/main/react_sass_portifolio/src/assets/image/projects/portifoliodonnavarro.gif" height="280px" width="340px" alt="Portfolio"/>
         </a>
       </div>
       <br />
@@ -333,7 +332,7 @@
       <br />
       <div align="center">
         <a target="_blank" href="https://boxshadowgenerator-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" height="250px" width="250px" alt="Box Shadow generator"/>
+          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" height="280px" width="340px" alt="Box Shadow generator"/>
         </a>
       </div>
       <br />
@@ -369,7 +368,7 @@
         <br />
       <div align="center">
         <a target="_blank" href="https://pearson-specter-litt-js.vercel.app/">
-          <img src="https://github.com/Brunonavarrooficial/PearsonSpecterLitt-Js/raw/main/img/personspecterlitt.gif" height="250px" width="250px" alt="pearson specter litt"/>
+          <img src="https://github.com/Brunonavarrooficial/PearsonSpecterLitt-Js/raw/main/img/personspecterlitt.gif" height="280px" width="340px" alt="pearson specter litt"/>
         </a>
       </div>
         <br />
@@ -401,7 +400,7 @@
       <br />
       <div align="center">
         <a target="_blank" href="https://devlinks-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="250px" width="250px" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="280px" width="340px" alt="Portfolio"/>
         </a>
       </div>
       <br />
@@ -438,7 +437,7 @@
       <br />
       <div align="center">
         <a target="_blank" href="https://agency-empresa-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/Agency-Sass/raw/main/assets/image/agency.gif" height="250px" width="250px" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/Agency-Sass/raw/main/assets/image/agency.gif" height="280px" width="340px" alt="Portfolio"/>
         </a>
       </div>
       <br />
@@ -471,7 +470,7 @@
         <br />
       <div align="center">
         <a target="_blank" href="https://brunonavarrooficial.github.io/iPhonePro13-Page/">
-          <img src="https://github.com/Brunonavarrooficial/iPhonePro13-Page/raw/main/img/iphonepage.gif" height="250px" width="250px" alt="UI Assignment"/>
+          <img src="https://github.com/Brunonavarrooficial/iPhonePro13-Page/raw/main/img/iphonepage.gif" height="280px" width="340px" alt="UI Assignment"/>
         </a>
         </div>
         <br />
@@ -498,8 +497,8 @@
         <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
         </a>
       </p>
-    </td>
-  </tr>
+    </td>    
+  </tr>    
 </table>
 
 <div align="center">
