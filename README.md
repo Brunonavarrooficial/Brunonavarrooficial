@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunonavarrooficial&label=Profile%20views&color=0e75b6&style=flat" alt="brunonavarrooficial views profile" /></p>
 <h3> Hello, I'm Bruno! 🖖🏼 Welcome to my GitHub profile! 👋🏻</h3>
-<p>I'm a <span style="color:blue">software developer</span>. I'm always learning 📚 and turning <span style="color:brown">coffee</span> into code 👨🏽‍💻☕. Passionate about creating solutions to real world problems.</p>
+<p>I'm a <span style="color:blue">software developer</span>. I'm always learning 📚 and turning <span style="color:brown">coffee</span> into code 👨🏽‍💻☕.</p>
+<p>Passionate about creating solutions to real world problems 🕵🏼.</p>
 <h6> 💫 #desenvolvimentoweb, #computação, #software, #fullstack, #development, #mobile and #tecnologia</h6>
 
 ##
