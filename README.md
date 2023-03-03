@@ -221,7 +221,7 @@
       <h3 align="center">Poke<span style="color:red">Next.js</span> <img width='28px' align='center' src='https://github.com/Brunonavarrooficial/PokeNextJs/raw/main/public/images/pokeball.png' /></h3>
       <br />
         <a target="_blank" href="https://pokenext-js-eight.vercel.app/">
-          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" height="390px" width="100%" alt="PokeNext Cards"/>
+          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" height="450px" width="600px" alt="PokeNext Cards"/>
         </a>
       <br />
         <div align="center">
@@ -253,7 +253,7 @@
       <h3 align="center">Agencia Fake <img style="margin-bottom:-5px" width="30px" src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/marketing.png" /></h3>
         <br />
         <a target="_blank" href="https://agenciafake-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/agenciafake.gif" width="100%" alt="Agency Fake"/>
+          <img src="https://github.com/Brunonavarrooficial/AgenciaFake_HTMLCSS/raw/main/assets/images/agenciafake.gif" height="450px" width="600px" alt="Agency Fake"/>
         </a>
         <br />
          <div align="center">
@@ -285,7 +285,7 @@
       <h3 align="center">My Portfolio 📌</h3>
       <br />
         <a target="_blank" href="https://portifolio-bruno-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/portifolio_react_sass/raw/main/react_sass_portifolio/src/assets/image/projects/portifoliodonnavarro.gif" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/portifolio_react_sass/raw/main/react_sass_portifolio/src/assets/image/projects/portifoliodonnavarro.gif" height="450px" width="600px" alt="Portfolio"/>
         </a>
       <br />
         <div align="center">
@@ -318,7 +318,7 @@
       <h3 align="center">Gerador Box Shadow 🎨</h3>
       <br />
         <a target="_blank" href="https://boxshadowgenerator-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" width="100%" height="375px"  alt="Box Shadow generator"/>
+          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" height="450px" width="600px"  alt="Box Shadow generator"/>
         </a>
       <br />
         <div align="center">
@@ -352,7 +352,7 @@
       <h3 align="center">Pearson Specter Litt 👩‍⚖️👨‍⚖️</h3>
         <br />
         <a target="_blank" href="https://pearson-specter-litt-js.vercel.app/">
-          <img src="https://github.com/Brunonavarrooficial/PearsonSpecterLitt-Js/raw/main/img/personspecterlitt.gif" width="100%" alt="pearson specter litt"/>
+          <img src="https://github.com/Brunonavarrooficial/PearsonSpecterLitt-Js/raw/main/img/personspecterlitt.gif" height="450px" width="600px" alt="pearson specter litt"/>
         </a>
         <br />
          <div align="center">
@@ -382,7 +382,7 @@
       <h3 align="center">DevLink Page 🔗</h3>
       <br />
         <a target="_blank" href="https://devlinks-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="440px" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="450px" width="600px" alt="Portfolio"/>
         </a>
       <br />
         <div align="center">
@@ -417,7 +417,7 @@
       <h3 align="center">Agency - Enterprise 🏢👩🏽‍💼👨🏽‍💼</h3>
       <br />
         <a target="_blank" href="https://agency-empresa-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/Agency-Sass/raw/main/assets/image/agency.gif"  height="474px" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/Agency-Sass/raw/main/assets/image/agency.gif"  height="450px" width="600px" alt="Portfolio"/>
         </a>
       <br />
         <div align="center">
@@ -448,7 +448,7 @@
       <h3 align="center">iPhone Pro 13 Sales Page 📱</h3>
         <br />
         <a target="_blank" href="https://brunonavarrooficial.github.io/iPhonePro13-Page/">
-          <img src="https://github.com/Brunonavarrooficial/iPhonePro13-Page/raw/main/img/iphonepage.gif" width="100%" alt="UI Assignment"/>
+          <img src="https://github.com/Brunonavarrooficial/iPhonePro13-Page/raw/main/img/iphonepage.gif" height="450px" width="600px" alt="UI Assignment"/>
         </a>
         <br />
         <div align="center">
