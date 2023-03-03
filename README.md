@@ -221,7 +221,7 @@
       <h3 align="center">Poke<span style="color:red">Next.js</span> <img width='28px' align='center' src='https://github.com/Brunonavarrooficial/PokeNextJs/raw/main/public/images/pokeball.png' /></h3>
       <br />
         <a target="_blank" href="https://pokenext-js-eight.vercel.app/">
-          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" height="221" width="100%" alt="Quiz Application"/>
+          <img src="https://raw.githubusercontent.com/Brunonavarrooficial/PokeNextJs/main/public/images/pokenext.gif" height="390px" width="100%" alt="PokeNext Cards"/>
         </a>
       <br />
         <div align="center">
@@ -318,7 +318,7 @@
       <h3 align="center">Gerador Box Shadow 🎨</h3>
       <br />
         <a target="_blank" href="https://boxshadowgenerator-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" width="100%" height="220px" alt="Box Shadow generator"/>
+          <img src="https://github.com/Brunonavarrooficial/boxShadowGenerator/raw/main/assets/image/geradorboxshadow.gif" width="100%" height="375px"  alt="Box Shadow generator"/>
         </a>
       <br />
         <div align="center">
@@ -382,7 +382,7 @@
       <h3 align="center">DevLink Page 🔗</h3>
       <br />
         <a target="_blank" href="https://devlinks-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="255px" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/DevLink-ReactJs/raw/main/public/assets/devlinkpage.gif" height="440px" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <div align="center">
@@ -417,7 +417,7 @@
       <h3 align="center">Agency - Enterprise 🏢👩🏽‍💼👨🏽‍💼</h3>
       <br />
         <a target="_blank" href="https://agency-empresa-bn.netlify.app/">
-          <img src="https://github.com/Brunonavarrooficial/Agency-Sass/raw/main/assets/image/agency.gif" height="275" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/Brunonavarrooficial/Agency-Sass/raw/main/assets/image/agency.gif"  height="474px" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <div align="center">
