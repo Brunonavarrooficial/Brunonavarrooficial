@@ -2,7 +2,7 @@
 <h3> Hello, I'm Bruno! 🖖🏼 Welcome to my GitHub profile! 👋🏻</h3>
 <p>I'm a <span style="color:blue">software developer</span>. I'm always learning 📚 and turning <span style="color:brown">coffee</span> into code 👨🏽‍💻☕.</p>
 <p>Passionate about creating solutions to real world problems 🕵🏼.</p>
-<h6> 💫 #desenvolvimentoweb, #computação, #software, #fullstack, #development, #mobile and #tecnologia</h6>
+<h6> 💫 #desenvolvimentoweb, #dataanalytics #computação, #software, #fullstack, #development, #mobile and #tecnologia</h6>
 
 ##
 
@@ -28,21 +28,35 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Markdown" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> 
   <img align="center" alt="Gimp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original-wordmark.svg" />          
-  <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
+  <img align="center" alt="VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />          
 </div>
   
   ---
   #### 💻 Tech Stack: Back-End:
   <div style="display: inline_block">
+    <img align="center" alt="CSharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
+    <img align="center" alt=".Net" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />  
     <img align="center" alt="NodeJs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+    <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/java/java.png">
+    <img align="center" alt="SpringBoot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
     <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
     <img align="center" alt="Imnsomia" height="50" width="50" src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" />
     <img align="center" alt="Postman" height="50" width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
-    <img align="center" alt="GraphQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />             
-    <img align="center" alt="SpringBoot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
-    <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/java/java.png">   </div>
+    <img align="center" alt="GraphQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+  </div>
+
+  ---
+  #### 💻 Tech Stack: Data Analytics 📊:
+  <div style="display: inline_block">                
+    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img align="center" alt="Jupyter Notebook" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img align="center" alt="PowerBI" height="50" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" />
+    <img align="center" alt="Tableau" height="50" width="50" src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" />
+    <img align="center" alt="SQL" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />          
+    <img align="center" alt="Excel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
+    <img align="center" alt="Power Apps" height="50" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Apps-Colored.png" />
+  </div>
   
   ---
   #### 💻 Tech Stack: Database SQL and NoSql 🛢️:
